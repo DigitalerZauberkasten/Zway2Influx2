@@ -1,0 +1,8 @@
+{
+    "require": {
+        "influxdata/influxdb-client-php": "^3.2",
+        "adodb/adodb-php": "^5.22",
+        "php-http/curl-client": "^2.2",
+        "nyholm/psr7": "^1.5"
+    }
+}
